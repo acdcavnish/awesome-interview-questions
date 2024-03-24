@@ -1,9 +1,7 @@
 <div align="center">	
 	<p>	
 		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
-      <div>	
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
-			</div>	
+     
       <br>
 			<b>All your environment variables, in one place</b>	
 			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
@@ -52,18 +50,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ## Programming Languages/Frameworks/Platforms
 
-
-### C++
-
-* [1000+ Multiple Choice Questions & Answers in C++ with explanations](http://www.sanfoundry.com/cplusplus-interview-questions-answers/)
-* [200 C++ interview questions and answers](http://www.careerride.com/C++-Interview-questions-Answer.aspx)
-* [24 Essential C++ Interview Questions from Toptal](http://www.toptal.com/c-plus-plus/interview-questions)
-* [C++ Interview Questions from GeekInterview](http://www.geekinterview.com/Interview-Questions/Languages/C-Plus-Plus)
-* [C++ Programming Q&A and quizzes from computer science portal for geeks](http://www.geeksforgeeks.org/c-plus-plus/)
-* [C++ Programming Questions and Answers related to such topics as OOPs concepts, Object and Classes, Functions, Constructors and Destructors, Inheritance and etc](http://www.indiabix.com/cpp-programming/questions-and-answers/)
-* [LeetCode Problems' Solutions written in C++](https://github.com/haoel/leetcode)
-
-
 ### Docker
 
 * [Docker Interview Questions](https://mindmajix.com/docker-interview-questions)
@@ -74,29 +60,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Docker Interview Questions & Answers](https://www.interviewbit.com/docker-interview-questions/)
 * [Top 50 Docker Interview Questions & Answers](https://www.wissenhive.com/blogs/top-50-docker-interview-questions-and-answers)
 * [Top 50+ Docker Interview Questions and Answers in 2021](https://www.techgeekbuzz.com/top-docker-interview-questions/)
-
-### Elastic
-
-* [Top Elastic Stack Interview Questions](https://logit.io/blog/post/the-top-50-elk-stack-and-elasticsearch-interview-questions)
-
-
-### GraphQl
-
-* [8 GraphQl Interview Questions To Know](https://www.fullstack.cafe/blog/5-graphql-interview-questions-you-should-know)
-* [How to GraphQl - Common Questions](https://www.howtographql.com/advanced/5-common-questions/)
-
-### HTML
-
-* [10 Typical HTML Interview Exercises from SitePoint.com](http://www.sitepoint.com/10-typical-html-interview-exercises/)
-* [16 Essential HTML5 Interview Questions from Toptal](http://www.toptal.com/html5/interview-questions)
-* [40 important HTML 5 Interview questions with answers](http://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
-* [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
-* [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
-* [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
-* [Front End Interview Handbook - HTML Questions and Answers](https://frontendinterviewhandbook.com/html-questions/)
-* [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
-* [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
-
 
 ### Java
 
@@ -122,7 +85,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 
 ## Database technologies
-
 
 ### Cassandra
 
@@ -183,25 +145,6 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Redis Interview Questions from Wisdomjobs](https://www.wisdomjobs.com/e-university/redis-interview-questions-answers.html)
 * [Redis Interview Questions from Career Guru](https://career.guru99.com/top-10-redis-interview-questions/)
 
-## OS
-
-### Linux
-
-* [10 Job Interview Questions for Linux System Administrators from Linux.com](https://www.linuxfoundation.org/blog/2015/07/10-job-interview-questions-for-linux-system-administrators/)
-* [10 Useful Random Linux Interview Questions and Answers](http://www.tecmint.com/useful-random-linux-interview-questions-and-answers/)
-* [11 Basic Linux Interview Questions and Answers](http://www.tecmint.com/basic-linux-interview-questions-and-answers/)
-* [11 Essential Linux Interview Questions from Toptal](http://www.toptal.com/linux/interview-questions)
-* [Top 30 Linux System Admin Interview Questions & Answers](http://www.linuxtechi.com/experience-linux-admin-interview-questions/)
-* [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
-* [278 Test Questions and Answers for \*nix System Administrators](https://github.com/trimstray/test-your-sysadmin-skills)
-* [Linux Interview Questions - Quick Refresher](https://www.techbeamers.com/essential-linux-questions-answers/)
-
-## DevOps
-
-* [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
-* [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
-* [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
-* [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
