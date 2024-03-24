@@ -1,21 +1,5 @@
-<div align="center">	
-	<p>	
-		<a href="https://doppler.com?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-interview&utm_source=github">	
-     
-      <br>
-			<b>All your environment variables, in one place</b>	
-			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
-			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
-			</br>
-		</a>	
-	</p>	
-</div>	
+# A curated list of lists of technical interview questions.
 
-> A curated list of lists of technical interview questions.
-
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
 
 ### Table of Contents
 
