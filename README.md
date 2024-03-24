@@ -1,37 +1,5 @@
 # A curated list of lists of technical interview questions.
 
-
-### Table of Contents
-
-- [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
-  - [C++](#c)
-  - [Docker](#docker)
-  - [Elastic](#elastic)
-  - [GraphQl](#graphql)
-  - [HTML](#html)
-  - [Java](#java)
-
-- [Database technologies](#database-technologies)
-  - [Cassandra](#cassandra)
-  - [MongoDB](#mongodb)
-  - [MySQL](#mysql)
-  - [Neo4j](#neo4j)
-  - [Oracle](#oracle)
-  - [Postgres](#postgres)
-  - [SQL](#sql)
-  - [SQL Lite](#sql-lite)
-- [Caching technologies](#caching-technologies)
-  - [Redis](#redis)
-
-- [OS](#os)
-  - [Linux](#linux)
-- [Algorithms](#algorithms)
-- [Coding exercises](#coding-exercises)
-- [Comprehensive lists](#comprehensive-lists)
-- [Design patterns](#design-patterns)
-- [Data structures](#data-structures)
-- [Networks](#networks)
-
 ## Programming Languages/Frameworks/Platforms
 
 ### Docker
